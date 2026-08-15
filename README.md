@@ -6,15 +6,15 @@
 
 # What is it?
 
-<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 495,442 | 🐛 99 | 📅 2026-06-30. All contributions are very welcome.
+<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 495,811 | 🐛 100 | 📅 2026-06-30. All contributions are very welcome.
 
-<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 495,442 | 🐛 99 | 📅 2026-06-30. Qualquer contribuição é muito bem vinda.
+<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 495,811 | 🐛 100 | 📅 2026-06-30. Qualquer contribuição é muito bem vinda.
 
 ## Contributing
 
-<img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) ⭐ 201 | 🐛 0 | 📅 2026-07-31 if you have any questions. Give a star to the project and share it with your friends if possible.
+<img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) ⭐ 202 | 🐛 0 | 📅 2026-07-31 if you have any questions. Give a star to the project and share it with your friends if possible.
 
-<img src="images/brazil-icon.png" height=20> Clique no arquivo [README.md](README.md) e no botão :pencil2: para editá-lo. Não deixe de [abrir um issue](https://github.com/juliohm/awesome-brazil-data/issues) ⭐ 201 | 🐛 0 | 📅 2026-07-31 caso tenha qualquer pergunta. Se possível, dê uma estrela ao projeto e compartilhe com amigos.
+<img src="images/brazil-icon.png" height=20> Clique no arquivo [README.md](README.md) e no botão :pencil2: para editá-lo. Não deixe de [abrir um issue](https://github.com/juliohm/awesome-brazil-data/issues) ⭐ 202 | 🐛 0 | 📅 2026-07-31 caso tenha qualquer pergunta. Se possível, dê uma estrela ao projeto e compartilhe com amigos.
 
 ## License
 
@@ -169,4 +169,4 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
