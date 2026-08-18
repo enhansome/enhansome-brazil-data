@@ -6,9 +6,9 @@
 
 # What is it?
 
-<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 496,601 | 🐛 100 | 📅 2026-06-30. All contributions are very welcome.
+<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 497,015 | 🐛 102 | 📅 2026-06-30. All contributions are very welcome.
 
-<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 496,601 | 🐛 100 | 📅 2026-06-30. Qualquer contribuição é muito bem vinda.
+<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 497,015 | 🐛 102 | 📅 2026-06-30. Qualquer contribuição é muito bem vinda.
 
 ## Contributing
 
@@ -64,7 +64,7 @@ To the extent possible under law, all contributors have waived all copyright and
 * [gis-dataset-brasil](https://github.com/fititnt/gis-dataset-brasil) ⚠️ Archived — Coleção de shapefiles, GeoJSON e TopoJSON no Brasil.
 * [Infraero](https://github.com/ehrhardt/Infraero) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2019-08-12 — Dados da Infraero (Python).
 * [Sotaque Brasileiro](https://github.com/sotaque-brasileiro/sotaque-brasileiro/releases) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-05-02 — Base de dados colaborativa para estudo de regionalismos através da voz.
-* [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-10 — Logos de instituições financeiras do Brasil (JavaScript).
+* [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-17 — Logos de instituições financeiras do Brasil (JavaScript).
 * [BrazilianFootball](https://github.com/DiSiqueira/BrazilianFootball) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2017-04-02 — Dados de futebol (shell script).
 * [GADM](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-06-29 — Coleção de Shapefile de estados, cidades, municípios (Julia)
 * [GeoBR](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-06-29 — Coleção de GeoPackage de estados, cidades, municípios (Julia)
@@ -169,4 +169,4 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
