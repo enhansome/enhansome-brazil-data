@@ -6,9 +6,9 @@
 
 # What is it?
 
-<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 497,015 | 🐛 102 | 📅 2026-06-30. All contributions are very welcome.
+<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 497,447 | 🐛 102 | 📅 2026-08-18. All contributions are very welcome.
 
-<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 497,015 | 🐛 102 | 📅 2026-06-30. Qualquer contribuição é muito bem vinda.
+<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 497,447 | 🐛 102 | 📅 2026-08-18. Qualquer contribuição é muito bem vinda.
 
 ## Contributing
 
@@ -55,7 +55,7 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ## Brasil
 
-* [geodata-br](https://github.com/tbrugz/geodata-br) ⭐ 903 | 🐛 21 | 📅 2024-01-31 — Perímetros dos munícipios brasileiros por estado (GeoJSON).
+* [geodata-br](https://github.com/tbrugz/geodata-br) ⭐ 903 | 🐛 22 | 📅 2024-01-31 — Perímetros dos munícipios brasileiros por estado (GeoJSON).
 * [br-atlas](https://github.com/carolinabigonha/br-atlas) ⭐ 138 | 🐛 1 | 🌐 Makefile | 📅 2022-04-05 — TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
 * [openfootball/br-brazil](https://github.com/openfootball/br-brazil) ⭐ 90 | 🐛 0 | 📅 2026-07-11 — Dados do campeonato brasileiro.
 * [places.br](https://github.com/paulofreitas/places.br) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2018-07-11 — Dados geográficos.
@@ -69,7 +69,7 @@ To the extent possible under law, all contributors have waived all copyright and
 * [GADM](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-06-29 — Coleção de Shapefile de estados, cidades, municípios (Julia)
 * [GeoBR](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-06-29 — Coleção de GeoPackage de estados, cidades, municípios (Julia)
 * [NaturalEarth](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-06-29 — Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)
-* [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) ⭐ 3 | 🐛 1 | 🌐 Julia | 📅 2026-08-03 — Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
+* [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) ⭐ 3 | 🐛 1 | 🌐 Julia | 📅 2026-08-18 — Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 * [QEdu](http://www.qedu.org.br) — Dados de educação.
 * [TIC Pesquisas](http://cetic.br/pesquisas) — Pesquisas sobre educação, saúde, etc.
 * [IBGE](http://www.ibge.gov.br) — Dados do Instituto brasileiro de geografia e estatística.
@@ -169,4 +169,4 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
