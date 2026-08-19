@@ -1,326 +1,248 @@
 {
   "items": [
     {
-      "description": "Click on the README.md file and on the :pencil2: button for editing it. Please don't hesitate to open an issue if you have any questions. Give a star to the project and share it with your friends if possible.\nClique no arquivo README.md e no botão :pencil2: para editá-lo. Não deixe de abrir um issue caso tenha qualquer pergunta. Se possível, dê uma estrela ao projeto e compartilhe com amigos.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": "awesome-brazil-data is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement awesome on GitHub. All contributions are very welcome.\nawesome-brazil-data é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento awesome on GitHub. Qualquer contribuição é muito bem vinda.",
       "items": [
         {
-          "node_type": "item",
-          "title": "geodata-br",
-          "description": "Perímetros dos munícipios brasileiros por estado (GeoJSON).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-31T16:33:45Z",
-            "owner": "tbrugz",
-            "repo": "geodata-br",
-            "stars": 903
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "br-atlas",
-          "description": "TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2022-04-05T17:03:04Z",
-            "owner": "carolinabigonha",
-            "repo": "br-atlas",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openfootball/br-brazil",
-          "description": "Dados do campeonato brasileiro.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-11T18:39:40Z",
-            "owner": "openfootball",
-            "repo": "south-america",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "places.br",
-          "description": "Dados geográficos.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-07-11T16:26:50Z",
-            "owner": "paulofreitas",
-            "repo": "geodata-br",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "congressbr",
-          "description": "Dados do senado federal e câmara dos deputados (R).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2020-07-14T23:20:43Z",
-            "owner": "duarteguilherme",
-            "repo": "congressbr",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flora",
-          "description": "Dados da flora brasileira (R).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2024-01-12T01:04:03Z",
-            "owner": "gustavobio",
-            "repo": "flora",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gis-dataset-brasil",
-          "description": "Coleção de shapefiles, GeoJSON e TopoJSON no Brasil.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-05-31T01:55:25Z",
-            "owner": "fititnt",
-            "repo": "gis-dataset-brasil",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Infraero",
-          "description": "Dados da Infraero (Python).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-12T19:27:24Z",
-            "owner": "ehrhardt",
-            "repo": "Infraero",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sotaque Brasileiro",
-          "description": "Base de dados colaborativa para estudo de regionalismos através da voz.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-02T01:22:41Z",
-            "owner": "sotaque-brasileiro",
-            "repo": "sotaque-brasileiro",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "logos-bancos-br",
-          "description": "Logos de instituições financeiras do Brasil (JavaScript).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T18:43:05Z",
-            "owner": "rzmt",
-            "repo": "logos-bancos-br",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BrazilianFootball",
-          "description": "Dados de futebol (shell script).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2017-04-02T22:42:26Z",
-            "owner": "d6o",
-            "repo": "BrazilianFootball",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GADM",
-          "description": "Coleção de Shapefile de estados, cidades, municípios (Julia)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-06-29T02:21:05Z",
-            "owner": "JuliaEarth",
-            "repo": "GeoArtifacts.jl",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeoBR",
-          "description": "Coleção de GeoPackage de estados, cidades, municípios (Julia)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-06-29T02:21:05Z",
-            "owner": "JuliaEarth",
-            "repo": "GeoArtifacts.jl",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NaturalEarth",
-          "description": "Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-06-29T02:21:05Z",
-            "owner": "JuliaEarth",
-            "repo": "GeoArtifacts.jl",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeBRief.jl",
-          "description": "Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2026-08-18T02:20:44Z",
-            "owner": "dantebertuzzi",
-            "repo": "DeBRief.jl",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "INMET",
-          "description": "Dados de estações meteorológicas do Brasil produzidos pelo INMET (Julia)",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "geodata-br",
+              "description": "Perímetros dos munícipios brasileiros por estado (GeoJSON).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45474752,
+                "language": null,
+                "last_commit": "2024-01-31T16:33:45Z",
+                "owner": "tbrugz",
+                "repo": "geodata-br",
+                "stars": 903
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "br-atlas",
+              "description": "TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13331663,
+                "language": "Makefile",
+                "last_commit": "2022-04-05T17:03:04Z",
+                "owner": "carolinabigonha",
+                "repo": "br-atlas",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openfootball/br-brazil",
+              "description": "Dados do campeonato brasileiro.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12080665,
+                "language": null,
+                "last_commit": "2026-07-11T18:39:40Z",
+                "owner": "openfootball",
+                "repo": "south-america",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "places.br",
+              "description": "Dados geográficos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11654897,
+                "language": "Python",
+                "last_commit": "2018-07-11T16:26:50Z",
+                "owner": "paulofreitas",
+                "repo": "geodata-br",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "congressbr",
+              "description": "Dados do senado federal e câmara dos deputados (R).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83827931,
+                "language": "R",
+                "last_commit": "2020-07-14T23:20:43Z",
+                "owner": "duarteguilherme",
+                "repo": "congressbr",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flora",
+              "description": "Dados da flora brasileira (R).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21212629,
+                "language": "R",
+                "last_commit": "2024-01-12T01:04:03Z",
+                "owner": "gustavobio",
+                "repo": "flora",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gis-dataset-brasil",
+              "description": "Coleção de shapefiles, GeoJSON e TopoJSON no Brasil.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 497764396,
+                "language": null,
+                "last_commit": "2022-05-31T01:55:25Z",
+                "owner": "fititnt",
+                "repo": "gis-dataset-brasil",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Infraero",
+              "description": "Dados da Infraero (Python).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582873,
+                "language": "Python",
+                "last_commit": "2019-08-12T19:27:24Z",
+                "owner": "ehrhardt",
+                "repo": "Infraero",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sotaque Brasileiro",
+              "description": "Base de dados colaborativa para estudo de regionalismos através da voz.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 409981666,
+                "language": "Python",
+                "last_commit": "2023-05-02T01:22:41Z",
+                "owner": "sotaque-brasileiro",
+                "repo": "sotaque-brasileiro",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "logos-bancos-br",
+              "description": "Logos de instituições financeiras do Brasil (JavaScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1303423590,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T18:43:05Z",
+                "owner": "rzmt",
+                "repo": "logos-bancos-br",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BrazilianFootball",
+              "description": "Dados de futebol (shell script).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87011125,
+                "language": "Go",
+                "last_commit": "2017-04-02T22:42:26Z",
+                "owner": "d6o",
+                "repo": "BrazilianFootball",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GADM",
+              "description": "Coleção de Shapefile de estados, cidades, municípios (Julia)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701447526,
+                "language": "Julia",
+                "last_commit": "2026-06-29T02:21:05Z",
+                "owner": "JuliaEarth",
+                "repo": "GeoArtifacts.jl",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeoBR",
+              "description": "Coleção de GeoPackage de estados, cidades, municípios (Julia)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701447526,
+                "language": "Julia",
+                "last_commit": "2026-06-29T02:21:05Z",
+                "owner": "JuliaEarth",
+                "repo": "GeoArtifacts.jl",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NaturalEarth",
+              "description": "Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701447526,
+                "language": "Julia",
+                "last_commit": "2026-06-29T02:21:05Z",
+                "owner": "JuliaEarth",
+                "repo": "GeoArtifacts.jl",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeBRief.jl",
+              "description": "Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1297531278,
+                "language": "Julia",
+                "last_commit": "2026-08-18T02:20:44Z",
+                "owner": "dantebertuzzi",
+                "repo": "DeBRief.jl",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Brasil"
         }
       ],
-      "title": "Brasil"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Acre"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Amapá"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Amazonas"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bahia"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Distrito Federal"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Espírito Santo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Goiás"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Maranhão"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mato Grosso"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mato Grosso do Sul"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Minas Gerais"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Pará"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Piauí"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Rondônia"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Roraima"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Santa Catarina"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sergipe"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tocantins"
+      "title": "What is it?"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T01:59:53.394Z",
+    "last_updated": "2026-08-19T12:19:42.562Z",
     "original_repository": "juliohm/awesome-brazil-data",
+    "original_repository_id": 91838205,
     "original_repository_sha": "8c60d79c114648a10b1aab5841a7c0cdd46885e2",
     "enhanced_repository": "enhansome/enhansome-brazil-data",
     "enhanced_repository_description": null,
