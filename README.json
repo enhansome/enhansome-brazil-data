@@ -17,7 +17,7 @@
                 "last_commit": "2024-01-31T16:33:45Z",
                 "owner": "tbrugz",
                 "repo": "geodata-br",
-                "stars": 903
+                "stars": 904
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2022-04-05T17:03:04Z",
                 "owner": "carolinabigonha",
                 "repo": "br-atlas",
-                "stars": 138
+                "stars": 139
               }
             },
             {
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:19:42.562Z",
+    "last_updated": "2026-08-20T01:58:24.281Z",
     "original_repository": "juliohm/awesome-brazil-data",
     "original_repository_id": 91838205,
     "original_repository_sha": "8c60d79c114648a10b1aab5841a7c0cdd46885e2",
