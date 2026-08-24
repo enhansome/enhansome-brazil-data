@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 1303423590,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T18:43:05Z",
+                "last_commit": "2026-08-24T09:43:47Z",
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
                 "stars": 11
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:07:20.382Z",
+    "last_updated": "2026-08-24T14:35:16.602Z",
     "original_repository": "juliohm/awesome-brazil-data",
     "original_repository_id": 91838205,
     "original_repository_sha": "8c60d79c114648a10b1aab5841a7c0cdd46885e2",
