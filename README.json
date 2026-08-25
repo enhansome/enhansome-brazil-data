@@ -17,7 +17,7 @@
                 "last_commit": "2024-01-31T16:33:45Z",
                 "owner": "tbrugz",
                 "repo": "geodata-br",
-                "stars": 904
+                "stars": 905
               }
             },
             {
@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 1303423590,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T09:43:47Z",
+                "last_commit": "2026-08-24T16:46:16Z",
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
                 "stars": 11
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:16.602Z",
+    "last_updated": "2026-08-25T02:00:30.087Z",
     "original_repository": "juliohm/awesome-brazil-data",
     "original_repository_id": 91838205,
     "original_repository_sha": "8c60d79c114648a10b1aab5841a7c0cdd46885e2",
