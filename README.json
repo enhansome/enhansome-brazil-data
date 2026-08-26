@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 12080665,
                 "language": null,
-                "last_commit": "2026-08-23T12:57:10Z",
+                "last_commit": "2026-08-25T14:21:02Z",
                 "owner": "openfootball",
                 "repo": "south-america",
                 "stars": 90
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:25.855Z",
+    "last_updated": "2026-08-26T02:08:58.075Z",
     "original_repository": "juliohm/awesome-brazil-data",
     "original_repository_id": 91838205,
     "original_repository_sha": "8c60d79c114648a10b1aab5841a7c0cdd46885e2",
