@@ -240,9 +240,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:07:03.281Z",
-    "original_repository": "juliohm/awesome-brazil-data",
-    "original_repository_id": 91838205,
+    "last_updated": "2026-08-27T11:27:15.312Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 91838205,
+      "language": null,
+      "last_commit": "2026-07-31T19:52:30Z",
+      "owner": "juliohm",
+      "repo": "awesome-brazil-data",
+      "stars": 203
+    },
     "original_repository_sha": "8c60d79c114648a10b1aab5841a7c0cdd46885e2",
     "enhanced_repository": "enhansome/enhansome-brazil-data",
     "enhanced_repository_description": null,
