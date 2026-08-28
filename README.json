@@ -18,7 +18,8 @@
                 "owner": "tbrugz",
                 "repo": "geodata-br",
                 "stars": 905
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "carolinabigonha",
                 "repo": "br-atlas",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-25T14:21:02Z",
                 "owner": "openfootball",
                 "repo": "south-america",
-                "stars": 90
-              }
+                "stars": 91
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "paulofreitas",
                 "repo": "geodata-br",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "duarteguilherme",
                 "repo": "congressbr",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "gustavobio",
                 "repo": "flora",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "fititnt",
                 "repo": "gis-dataset-brasil",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "ehrhardt",
                 "repo": "Infraero",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "sotaque-brasileiro",
                 "repo": "sotaque-brasileiro",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "d6o",
                 "repo": "BrazilianFootball",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -179,11 +190,12 @@
                 "archived": false,
                 "id": 701447526,
                 "language": "Julia",
-                "last_commit": "2026-06-29T02:21:05Z",
+                "last_commit": "2026-08-27T18:44:18Z",
                 "owner": "JuliaEarth",
                 "repo": "GeoArtifacts.jl",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -194,11 +206,12 @@
                 "archived": false,
                 "id": 701447526,
                 "language": "Julia",
-                "last_commit": "2026-06-29T02:21:05Z",
+                "last_commit": "2026-08-27T18:44:18Z",
                 "owner": "JuliaEarth",
                 "repo": "GeoArtifacts.jl",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -209,11 +222,12 @@
                 "archived": false,
                 "id": 701447526,
                 "language": "Julia",
-                "last_commit": "2026-06-29T02:21:05Z",
+                "last_commit": "2026-08-27T18:44:18Z",
                 "owner": "JuliaEarth",
                 "repo": "GeoArtifacts.jl",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "dantebertuzzi",
                 "repo": "DeBRief.jl",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
             }
           ],
           "description": null,
@@ -240,7 +255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:15.312Z",
+    "last_updated": "2026-08-28T11:38:09.430Z",
     "original_repository_info": {
       "archived": false,
       "id": 91838205,
