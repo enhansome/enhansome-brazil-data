@@ -6,9 +6,9 @@
 
 # What is it?
 
-<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 500,707 | 🐛 105 | 📅 2026-08-21. All contributions are very welcome.
+<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21. All contributions are very welcome.
 
-<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 500,707 | 🐛 105 | 📅 2026-08-21. Qualquer contribuição é muito bem vinda.
+<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21. Qualquer contribuição é muito bem vinda.
 
 ## Contributing
 
@@ -56,7 +56,7 @@ To the extent possible under law, all contributors have waived all copyright and
 ## Brasil
 
 * [geodata-br](https://github.com/tbrugz/geodata-br) ⭐ 905 | 🐛 22 | 📅 2024-01-31 — Perímetros dos munícipios brasileiros por estado (GeoJSON).
-* [br-atlas](https://github.com/carolinabigonha/br-atlas) ⭐ 139 | 🐛 1 | 🌐 Makefile | 📅 2022-04-05 — TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
+* [br-atlas](https://github.com/carolinabigonha/br-atlas) ⭐ 138 | 🐛 1 | 🌐 Makefile | 📅 2022-04-05 — TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
 * [openfootball/br-brazil](https://github.com/openfootball/br-brazil) ⭐ 91 | 🐛 0 | 📅 2026-08-25 — Dados do campeonato brasileiro.
 * [places.br](https://github.com/paulofreitas/places.br) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2018-07-11 — Dados geográficos.
 * [congressbr](https://github.com/RobertMyles/congressbr) ⭐ 47 | 🐛 5 | 🌐 R | 📅 2020-07-14 — Dados do senado federal e câmara dos deputados (R).
@@ -169,4 +169,4 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
