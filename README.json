@@ -375,7 +375,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Julia client for Brazilian crime and violence statistics (MJSP/Sinesp)",
+                "description": "🔎 Julia client for Brazilian crime statistics (MJSP/Sinesp) — one stable schema across years of shifting layouts and typologies, with caching and per-100k rates.",
                 "homepage": null,
                 "id": 1297531278,
                 "language": "Julia",
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:16:08.734Z",
+    "last_updated": "2026-08-30T05:39:19.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
