@@ -6,15 +6,15 @@
 
 # What is it?
 
-<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 501,222 | 🐛 105 | 📅 2026-08-21. All contributions are very welcome.
+<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 501,523 | 🐛 105 | 📅 2026-08-21. All contributions are very welcome.
 
-<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 501,222 | 🐛 105 | 📅 2026-08-21. Qualquer contribuição é muito bem vinda.
+<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 501,523 | 🐛 105 | 📅 2026-08-21. Qualquer contribuição é muito bem vinda.
 
 ## Contributing
 
-<img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) ⭐ 203 | 🐛 0 | 📅 2026-07-31 if you have any questions. Give a star to the project and share it with your friends if possible.
+<img src="images/us-icon.png" height=20> Click on the [README.md](README.md) file and on the :pencil2: button for editing it. Please don't hesitate to [open an issue](https://github.com/juliohm/awesome-brazil-data/issues) ⭐ 204 | 🐛 1 | 📅 2026-07-31 if you have any questions. Give a star to the project and share it with your friends if possible.
 
-<img src="images/brazil-icon.png" height=20> Clique no arquivo [README.md](README.md) e no botão :pencil2: para editá-lo. Não deixe de [abrir um issue](https://github.com/juliohm/awesome-brazil-data/issues) ⭐ 203 | 🐛 0 | 📅 2026-07-31 caso tenha qualquer pergunta. Se possível, dê uma estrela ao projeto e compartilhe com amigos.
+<img src="images/brazil-icon.png" height=20> Clique no arquivo [README.md](README.md) e no botão :pencil2: para editá-lo. Não deixe de [abrir um issue](https://github.com/juliohm/awesome-brazil-data/issues) ⭐ 204 | 🐛 1 | 📅 2026-07-31 caso tenha qualquer pergunta. Se possível, dê uma estrela ao projeto e compartilhe com amigos.
 
 ## License
 
@@ -69,7 +69,7 @@ To the extent possible under law, all contributors have waived all copyright and
 * [GADM](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-08-27 — Coleção de Shapefile de estados, cidades, municípios (Julia)
 * [GeoBR](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-08-27 — Coleção de GeoPackage de estados, cidades, municípios (Julia)
 * [NaturalEarth](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-08-27 — Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)
-* [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) ⭐ 3 | 🐛 1 | 🌐 Julia | 📅 2026-08-18 — Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
+* [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) ⭐ 3 | 🐛 1 | 🌐 Julia | 📅 2026-08-31 — Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 * [QEdu](http://www.qedu.org.br) — Dados de educação.
 * [TIC Pesquisas](http://cetic.br/pesquisas) — Pesquisas sobre educação, saúde, etc.
 * [IBGE](http://www.ibge.gov.br) — Dados do Instituto brasileiro de geografia e estatística.
@@ -169,4 +169,4 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

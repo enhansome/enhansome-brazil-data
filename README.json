@@ -380,7 +380,7 @@
                 "id": 1297531278,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-08-18T02:20:44Z",
+                "last_commit": "2026-08-31T00:14:19Z",
                 "open_issues": 1,
                 "owner": "dantebertuzzi",
                 "repo": "DeBRief.jl",
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:39:19.956Z",
+    "last_updated": "2026-08-31T05:54:31.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
@@ -408,10 +408,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-31T19:52:30Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "juliohm",
       "repo": "awesome-brazil-data",
-      "stars": 203,
+      "stars": 204,
       "topics": [
         "awesome",
         "awesome-list",
