@@ -237,7 +237,7 @@
                 "id": 1303423590,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T16:46:16Z",
+                "last_commit": "2026-08-31T16:47:14Z",
                 "open_issues": 2,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
@@ -305,7 +305,7 @@
                 "id": 701447526,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-08-27T18:44:18Z",
+                "last_commit": "2026-09-01T00:37:14Z",
                 "open_issues": 0,
                 "owner": "JuliaEarth",
                 "repo": "GeoArtifacts.jl",
@@ -330,7 +330,7 @@
                 "id": 701447526,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-08-27T18:44:18Z",
+                "last_commit": "2026-09-01T00:37:14Z",
                 "open_issues": 0,
                 "owner": "JuliaEarth",
                 "repo": "GeoArtifacts.jl",
@@ -355,7 +355,7 @@
                 "id": 701447526,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-08-27T18:44:18Z",
+                "last_commit": "2026-09-01T00:37:14Z",
                 "open_issues": 0,
                 "owner": "JuliaEarth",
                 "repo": "GeoArtifacts.jl",
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:54:31.264Z",
+    "last_updated": "2026-09-01T05:27:43.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
@@ -407,11 +407,11 @@
       "id": 91838205,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-31T19:52:30Z",
-      "open_issues": 1,
+      "last_commit": "2026-08-31T11:48:40Z",
+      "open_issues": 0,
       "owner": "juliohm",
       "repo": "awesome-brazil-data",
-      "stars": 204,
+      "stars": 205,
       "topics": [
         "awesome",
         "awesome-list",
@@ -419,7 +419,7 @@
         "data"
       ]
     },
-    "original_repository_sha": "8c60d79c114648a10b1aab5841a7c0cdd46885e2",
+    "original_repository_sha": "68cef076cc020fc9e1b27a2dfb796c8f9fc36d8e",
     "enhanced_repository": "enhansome/enhansome-brazil-data",
     "enhanced_repository_description": null,
     "title": "Awesome Brazil Data with stars"
