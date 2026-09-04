@@ -6,9 +6,9 @@
 
 # What is it?
 
-<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 502,468 | 🐛 105 | 📅 2026-09-02. All contributions are very welcome.
+<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 502,767 | 🐛 106 | 📅 2026-09-02. All contributions are very welcome.
 
-<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 502,468 | 🐛 105 | 📅 2026-09-02. Qualquer contribuição é muito bem vinda.
+<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 502,767 | 🐛 106 | 📅 2026-09-02. Qualquer contribuição é muito bem vinda.
 
 ## Contributing
 
@@ -171,4 +171,4 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
