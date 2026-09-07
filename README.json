@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:56:57.194Z",
+    "last_updated": "2026-09-07T05:02:27.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
@@ -408,7 +408,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-31T11:48:40Z",
-      "open_issues": 0,
+      "open_issues": 2,
       "owner": "juliohm",
       "repo": "awesome-brazil-data",
       "stars": 205,
