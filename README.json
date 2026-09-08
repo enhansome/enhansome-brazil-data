@@ -70,7 +70,7 @@
                 "open_issues": 0,
                 "owner": "openfootball",
                 "repo": "south-america",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:38:09.430Z"
@@ -237,8 +237,8 @@
                 "id": 1303423590,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T16:47:14Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-08T00:03:53Z",
+                "open_issues": 29,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
                 "stars": 11,
@@ -388,6 +388,43 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T11:38:09.430Z"
+            },
+            {
+              "node_type": "item",
+              "title": "stackin-io/data-source",
+              "description": "Publicações oficiais dos documentos fiscais eletrônicos brasileiros.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Base fiscal brasileira sempre atualizada — feed Atom + manifest JSON dos schemas oficiais NF-e, NFS-e e SVRS. Scraping automático (SEFAZ, ADN gov.br, SVRS) diário às 09:00 UTC.",
+                "homepage": "https://app.stackin.io",
+                "id": 1358379712,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-09-07T21:45:40Z",
+                "open_issues": 0,
+                "owner": "stackin-io",
+                "repo": "data-source",
+                "stars": 1,
+                "topics": [
+                  "atom-feed",
+                  "brasil",
+                  "fiscal",
+                  "github-actions",
+                  "invoicing",
+                  "nfe",
+                  "nfse",
+                  "nota-fiscal",
+                  "scraper",
+                  "sefaz",
+                  "selenium",
+                  "sitemap",
+                  "stackin",
+                  "tax",
+                  "xsd"
+                ]
+              },
+              "first_seen": "2026-09-08T04:59:53.520Z"
             }
           ],
           "description": null,
@@ -399,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T05:02:27.921Z",
+    "last_updated": "2026-09-08T04:59:53.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
@@ -407,8 +444,8 @@
       "id": 91838205,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-31T11:48:40Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-07T20:42:43Z",
+      "open_issues": 0,
       "owner": "juliohm",
       "repo": "awesome-brazil-data",
       "stars": 205,
@@ -419,7 +456,7 @@
         "data"
       ]
     },
-    "original_repository_sha": "68cef076cc020fc9e1b27a2dfb796c8f9fc36d8e",
+    "original_repository_sha": "86ab11cef079549bc8ef6be6c2c14662332f4e45",
     "enhanced_repository": "enhansome/enhansome-brazil-data",
     "enhanced_repository_description": null,
     "title": "Awesome Brazil Data with stars"
