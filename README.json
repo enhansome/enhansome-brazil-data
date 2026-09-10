@@ -206,6 +206,38 @@
             },
             {
               "node_type": "item",
+              "title": "logos-bancos-br",
+              "description": "Logos de instituições financeiras do Brasil (JavaScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dataset + logos de instituições financeiras e de pagamento do Brasil, de fontes 100% oficiais: participantes do STR e do Pix (Banco Central) + diretório do Open Finance Brasil. Atualizado toda semana, com proveniência por logo.",
+                "homepage": "https://www.npmjs.com/package/logos-bancos-br",
+                "id": 1303423590,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-08T00:03:53Z",
+                "open_issues": 29,
+                "owner": "rzmt",
+                "repo": "logos-bancos-br",
+                "stars": 12,
+                "topics": [
+                  "banco-central",
+                  "bancos",
+                  "brasil",
+                  "brazilian-banks",
+                  "compe",
+                  "fintech",
+                  "ispb",
+                  "logos",
+                  "open-finance",
+                  "pix"
+                ]
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
+            },
+            {
+              "node_type": "item",
               "title": "Sotaque Brasileiro",
               "description": "Base de dados colaborativa para estudo de regionalismos através da voz.",
               "children": [],
@@ -222,38 +254,6 @@
                 "repo": "sotaque-brasileiro",
                 "stars": 11,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T11:38:09.430Z"
-            },
-            {
-              "node_type": "item",
-              "title": "logos-bancos-br",
-              "description": "Logos de instituições financeiras do Brasil (JavaScript).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dataset + logos de instituições financeiras e de pagamento do Brasil, de fontes 100% oficiais: participantes do STR e do Pix (Banco Central) + diretório do Open Finance Brasil. Atualizado toda semana, com proveniência por logo.",
-                "homepage": "https://www.npmjs.com/package/logos-bancos-br",
-                "id": 1303423590,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-08T00:03:53Z",
-                "open_issues": 29,
-                "owner": "rzmt",
-                "repo": "logos-bancos-br",
-                "stars": 11,
-                "topics": [
-                  "banco-central",
-                  "bancos",
-                  "brasil",
-                  "brazilian-banks",
-                  "compe",
-                  "fintech",
-                  "ispb",
-                  "logos",
-                  "open-finance",
-                  "pix"
-                ]
               },
               "first_seen": "2026-08-28T11:38:09.430Z"
             },
@@ -401,7 +401,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-09T04:52:14Z",
+                "last_commit": "2026-09-09T22:09:41Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T04:59:33.453Z",
+    "last_updated": "2026-09-10T05:02:43.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
