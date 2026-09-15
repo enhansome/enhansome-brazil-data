@@ -216,8 +216,8 @@
                 "id": 1303423590,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T00:03:53Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-14T16:47:35Z",
+                "open_issues": 30,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
                 "stars": 13,
@@ -380,7 +380,7 @@
                 "id": 1297531278,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-08-31T00:14:19Z",
+                "last_commit": "2026-09-14T21:52:07Z",
                 "open_issues": 1,
                 "owner": "dantebertuzzi",
                 "repo": "DeBRief.jl",
@@ -401,7 +401,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-13T13:45:06Z",
+                "last_commit": "2026-09-14T15:49:49Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T05:17:09.935Z",
+    "last_updated": "2026-09-15T05:08:23.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
