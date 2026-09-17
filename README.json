@@ -220,7 +220,7 @@
                 "open_issues": 23,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "banco-central",
                   "bancos",
@@ -376,7 +376,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "🔎 Julia client for Brazilian crime statistics (MJSP/Sinesp) — one stable schema across years of shifting layouts and typologies, with caching and per-100k rates.",
-                "homepage": null,
+                "homepage": "https://dantebertuzzi.github.io/DeBRief.jl/",
                 "id": 1297531278,
                 "language": "Julia",
                 "license": "MIT",
@@ -385,7 +385,18 @@
                 "owner": "dantebertuzzi",
                 "repo": "DeBRief.jl",
                 "stars": 3,
-                "topics": []
+                "topics": [
+                  "api-client",
+                  "brazil",
+                  "crime-data",
+                  "crime-statistics",
+                  "criminology",
+                  "julia",
+                  "julia-language",
+                  "open-data",
+                  "public-safety",
+                  "sinesp"
+                ]
               },
               "first_seen": "2026-08-28T11:38:09.430Z"
             },
@@ -401,7 +412,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-15T14:17:08Z",
+                "last_commit": "2026-09-16T14:09:00Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -436,7 +447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:04:18.471Z",
+    "last_updated": "2026-09-17T05:07:22.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
