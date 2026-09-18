@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "sotaque-brasileiro",
                 "repo": "sotaque-brasileiro",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:38:09.430Z"
@@ -412,7 +412,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T14:09:00Z",
+                "last_commit": "2026-09-17T14:14:16Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -447,7 +447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T05:07:22.604Z",
+    "last_updated": "2026-09-18T04:59:55.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
