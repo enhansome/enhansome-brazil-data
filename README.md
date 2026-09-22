@@ -6,9 +6,9 @@
 
 # What is it?
 
-<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 508,323 | 🐛 106 | 📅 2026-09-02. All contributions are very welcome.
+<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 508,711 | 🐛 106 | 📅 2026-09-02. All contributions are very welcome.
 
-<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 508,323 | 🐛 106 | 📅 2026-09-02. Qualquer contribuição é muito bem vinda.
+<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 508,711 | 🐛 106 | 📅 2026-09-02. Qualquer contribuição é muito bem vinda.
 
 ## Contributing
 
@@ -57,20 +57,20 @@ To the extent possible under law, all contributors have waived all copyright and
 
 * [geodata-br](https://github.com/tbrugz/geodata-br) ⭐ 907 | 🐛 22 | 📅 2024-01-31 — Perímetros dos munícipios brasileiros por estado (GeoJSON).
 * [br-atlas](https://github.com/carolinabigonha/br-atlas) ⭐ 138 | 🐛 1 | 🌐 Makefile | 📅 2022-04-05 — TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
-* [openfootball/br-brazil](https://github.com/openfootball/br-brazil) ⭐ 92 | 🐛 0 | 📅 2026-09-18 — Dados do campeonato brasileiro.
+* [openfootball/br-brazil](https://github.com/openfootball/br-brazil) ⭐ 92 | 🐛 0 | 📅 2026-09-21 — Dados do campeonato brasileiro.
 * [places.br](https://github.com/paulofreitas/places.br) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2018-07-11 — Dados geográficos.
 * [congressbr](https://github.com/RobertMyles/congressbr) ⭐ 47 | 🐛 5 | 🌐 R | 📅 2020-07-14 — Dados do senado federal e câmara dos deputados (R).
 * [flora](https://github.com/gustavobio/flora) ⭐ 31 | 🐛 6 | 🌐 R | 📅 2024-01-12 — Dados da flora brasileira (R).
 * [gis-dataset-brasil](https://github.com/fititnt/gis-dataset-brasil) ⚠️ Archived — Coleção de shapefiles, GeoJSON e TopoJSON no Brasil.
 * [Infraero](https://github.com/ehrhardt/Infraero) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2019-08-12 — Dados da Infraero (Python).
-* [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) ⭐ 14 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-16 — Logos de instituições financeiras do Brasil (JavaScript).
+* [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) ⭐ 14 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-21 — Logos de instituições financeiras do Brasil (JavaScript).
 * [Sotaque Brasileiro](https://github.com/sotaque-brasileiro/sotaque-brasileiro/releases) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-05-02 — Base de dados colaborativa para estudo de regionalismos através da voz.
 * [BrazilianFootball](https://github.com/DiSiqueira/BrazilianFootball) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2017-04-02 — Dados de futebol (shell script).
 * [GADM](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-09-15 — Coleção de Shapefile de estados, cidades, municípios (Julia)
 * [GeoBR](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-09-15 — Coleção de GeoPackage de estados, cidades, municípios (Julia)
 * [NaturalEarth](https://github.com/JuliaEarth/GeoArtifacts.jl) ⭐ 6 | 🐛 0 | 🌐 Julia | 📅 2026-09-15 — Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)
 * [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) ⭐ 3 | 🐛 1 | 🌐 Julia | 📅 2026-09-14 — Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
-* [stackin-io/data-source](https://github.com/stackin-io/data-source) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-20 — Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
+* [stackin-io/data-source](https://github.com/stackin-io/data-source) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-21 — Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
 * [QEdu](http://www.qedu.org.br) — Dados de educação.
 * [TIC Pesquisas](http://cetic.br/pesquisas) — Pesquisas sobre educação, saúde, etc.
 * [IBGE](http://www.ibge.gov.br) — Dados do Instituto brasileiro de geografia e estatística.
@@ -172,4 +172,4 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
