@@ -412,7 +412,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-23T14:10:55Z",
+                "last_commit": "2026-09-24T14:08:54Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -447,7 +447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:10:20.658Z",
+    "last_updated": "2026-09-25T05:12:44.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
