@@ -7,6 +7,38 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GeoBR",
+              "description": "Coleção de GeoPackage de estados, cidades, municípios (Python, R)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Easy access to official spatial data sets of Brazil in R and Python",
+                "homepage": "https://ipea.github.io/geobr/",
+                "id": 177215782,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-27T16:29:47Z",
+                "open_issues": 15,
+                "owner": "ipea",
+                "repo": "geobr",
+                "stars": 956,
+                "topics": [
+                  "brazil",
+                  "datasets",
+                  "geopackage",
+                  "geopandas",
+                  "python",
+                  "r",
+                  "rstats",
+                  "sf",
+                  "shapefile",
+                  "spatial-data"
+                ]
+              },
+              "first_seen": "2026-09-28T05:42:29.528Z"
+            },
+            {
+              "node_type": "item",
               "title": "geodata-br",
               "description": "Perímetros dos munícipios brasileiros por estado (GeoJSON).",
               "children": [],
@@ -216,11 +248,11 @@
                 "id": 1303423590,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T16:46:27Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-28T02:38:43Z",
+                "open_issues": 23,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "banco-central",
                   "bancos",
@@ -228,6 +260,7 @@
                   "brazilian-banks",
                   "compe",
                   "fintech",
+                  "hacktoberfest",
                   "ispb",
                   "logos",
                   "open-finance",
@@ -295,81 +328,6 @@
             },
             {
               "node_type": "item",
-              "title": "GADM",
-              "description": "Coleção de Shapefile de estados, cidades, municípios (Julia)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Artifacts (e.g., datasets) for Geospatial Data Science",
-                "homepage": "https://github.com/JuliaEarth/GeoStats.jl",
-                "id": 701447526,
-                "language": "Julia",
-                "license": "MIT",
-                "last_commit": "2026-09-15T17:11:54Z",
-                "open_issues": 0,
-                "owner": "JuliaEarth",
-                "repo": "GeoArtifacts.jl",
-                "stars": 6,
-                "topics": [
-                  "artifacts",
-                  "data",
-                  "geospatial"
-                ]
-              },
-              "first_seen": "2026-08-28T11:38:09.430Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GeoBR",
-              "description": "Coleção de GeoPackage de estados, cidades, municípios (Julia)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Artifacts (e.g., datasets) for Geospatial Data Science",
-                "homepage": "https://github.com/JuliaEarth/GeoStats.jl",
-                "id": 701447526,
-                "language": "Julia",
-                "license": "MIT",
-                "last_commit": "2026-09-15T17:11:54Z",
-                "open_issues": 0,
-                "owner": "JuliaEarth",
-                "repo": "GeoArtifacts.jl",
-                "stars": 6,
-                "topics": [
-                  "artifacts",
-                  "data",
-                  "geospatial"
-                ]
-              },
-              "first_seen": "2026-08-28T11:38:09.430Z"
-            },
-            {
-              "node_type": "item",
-              "title": "NaturalEarth",
-              "description": "Coleção de GeoJSON e GeoTIFF de estados, aeroportos, rios, etc. (Julia)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Artifacts (e.g., datasets) for Geospatial Data Science",
-                "homepage": "https://github.com/JuliaEarth/GeoStats.jl",
-                "id": 701447526,
-                "language": "Julia",
-                "license": "MIT",
-                "last_commit": "2026-09-15T17:11:54Z",
-                "open_issues": 0,
-                "owner": "JuliaEarth",
-                "repo": "GeoArtifacts.jl",
-                "stars": 6,
-                "topics": [
-                  "artifacts",
-                  "data",
-                  "geospatial"
-                ]
-              },
-              "first_seen": "2026-08-28T11:38:09.430Z"
-            },
-            {
-              "node_type": "item",
               "title": "DeBRief.jl",
               "description": "Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).",
               "children": [],
@@ -412,7 +370,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-26T13:42:34Z",
+                "last_commit": "2026-09-27T14:38:56Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -447,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:34:29.519Z",
+    "last_updated": "2026-09-28T05:42:29.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
@@ -455,7 +413,7 @@
       "id": 91838205,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-07T20:42:43Z",
+      "last_commit": "2026-09-27T15:56:50Z",
       "open_issues": 2,
       "owner": "juliohm",
       "repo": "awesome-brazil-data",
@@ -467,7 +425,7 @@
         "data"
       ]
     },
-    "original_repository_sha": "86ab11cef079549bc8ef6be6c2c14662332f4e45",
+    "original_repository_sha": "87d2b1653a109ff35a4432927907a90c014f68ce",
     "enhanced_repository": "enhansome/enhansome-brazil-data",
     "enhanced_repository_description": null,
     "title": "Awesome Brazil Data with stars"
