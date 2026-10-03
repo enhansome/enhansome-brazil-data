@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-27T16:29:47Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "ipea",
                 "repo": "geobr",
                 "stars": 957,
@@ -340,8 +340,8 @@
                 "id": 1297531278,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-14T21:52:07Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T02:59:21Z",
+                "open_issues": 2,
                 "owner": "dantebertuzzi",
                 "repo": "DeBRief.jl",
                 "stars": 3,
@@ -372,7 +372,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T16:38:42Z",
+                "last_commit": "2026-10-02T15:38:44Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:59:27.976Z",
+    "last_updated": "2026-10-03T04:38:45.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
