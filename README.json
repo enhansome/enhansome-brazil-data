@@ -55,7 +55,7 @@
                 "open_issues": 22,
                 "owner": "tbrugz",
                 "repo": "geodata-br",
-                "stars": 908,
+                "stars": 907,
                 "topics": [
                   "brasil",
                   "brazil",
@@ -250,8 +250,8 @@
                 "id": 1303423590,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T16:45:42Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-05T17:52:07Z",
+                "open_issues": 25,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
                 "stars": 15,
@@ -372,7 +372,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-04T14:43:47Z",
+                "last_commit": "2026-10-05T18:13:43Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:02:21.311Z",
+    "last_updated": "2026-10-06T06:41:33.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
@@ -419,7 +419,7 @@
       "open_issues": 1,
       "owner": "juliohm",
       "repo": "awesome-brazil-data",
-      "stars": 207,
+      "stars": 208,
       "topics": [
         "awesome",
         "awesome-list",

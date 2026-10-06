@@ -6,9 +6,9 @@
 
 # What is it?
 
-<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 514,794 | 🐛 107 | 📅 2026-09-02. All contributions are very welcome.
+<img src="images/us-icon.png" height=20> **awesome-brazil-data** is a curated list of Brazilian datasets for anyone interested in studying the country. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 515,267 | 🐛 107 | 📅 2026-09-02. All contributions are very welcome.
 
-<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 514,794 | 🐛 107 | 📅 2026-09-02. Qualquer contribuição é muito bem vinda.
+<img src="images/brazil-icon.png" height=20> **awesome-brazil-data** é uma lista de dados relacionados ao Brasil pra qualquer pessoa interessada em estudar o país. Ela é parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome) ⭐ 515,267 | 🐛 107 | 📅 2026-09-02. Qualquer contribuição é muito bem vinda.
 
 ## Contributing
 
@@ -56,7 +56,7 @@ To the extent possible under law, all contributors have waived all copyright and
 ## Brasil
 
 * [GeoBR](https://github.com/ipea/geobr) ⭐ 958 | 🐛 16 | 🌐 Python | 📅 2026-09-27 — Coleção de GeoPackage de estados, cidades, municípios (Python, R)
-* [geodata-br](https://github.com/tbrugz/geodata-br) ⭐ 908 | 🐛 22 | 📅 2024-01-31 — Perímetros dos munícipios brasileiros por estado (GeoJSON).
+* [geodata-br](https://github.com/tbrugz/geodata-br) ⭐ 907 | 🐛 22 | 📅 2024-01-31 — Perímetros dos munícipios brasileiros por estado (GeoJSON).
 * [br-atlas](https://github.com/carolinabigonha/br-atlas) ⭐ 138 | 🐛 1 | 🌐 Makefile | 📅 2022-04-05 — TopoJSON de mapas do Brasil criados automaticamente dos dados IBGE.
 * [openfootball/br-brazil](https://github.com/openfootball/br-brazil) ⭐ 92 | 🐛 0 | 📅 2026-09-21 — Dados do campeonato brasileiro.
 * [places.br](https://github.com/paulofreitas/places.br) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2018-07-11 — Dados geográficos.
@@ -64,11 +64,11 @@ To the extent possible under law, all contributors have waived all copyright and
 * [flora](https://github.com/gustavobio/flora) ⭐ 31 | 🐛 6 | 🌐 R | 📅 2024-01-12 — Dados da flora brasileira (R).
 * [gis-dataset-brasil](https://github.com/fititnt/gis-dataset-brasil) ⚠️ Archived — Coleção de shapefiles, GeoJSON e TopoJSON no Brasil.
 * [Infraero](https://github.com/ehrhardt/Infraero) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2019-08-12 — Dados da Infraero (Python).
-* [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) ⭐ 15 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-28 — Logos de instituições financeiras do Brasil (JavaScript).
+* [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) ⭐ 15 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-05 — Logos de instituições financeiras do Brasil (JavaScript).
 * [Sotaque Brasileiro](https://github.com/sotaque-brasileiro/sotaque-brasileiro/releases) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-05-02 — Base de dados colaborativa para estudo de regionalismos através da voz.
 * [BrazilianFootball](https://github.com/DiSiqueira/BrazilianFootball) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2017-04-02 — Dados de futebol (shell script).
 * [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) ⭐ 3 | 🐛 2 | 🌐 Julia | 📅 2026-10-03 — Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
-* [stackin-io/data-source](https://github.com/stackin-io/data-source) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-04 — Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
+* [stackin-io/data-source](https://github.com/stackin-io/data-source) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-05 — Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
 * [QEdu](http://www.qedu.org.br) — Dados de educação.
 * [TIC Pesquisas](http://cetic.br/pesquisas) — Pesquisas sobre educação, saúde, etc.
 * [IBGE](http://www.ibge.gov.br) — Dados do Instituto brasileiro de geografia e estatística.
@@ -172,4 +172,4 @@ To the extent possible under law, all contributors have waived all copyright and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
