@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "ipea",
                 "repo": "geobr",
-                "stars": 962,
+                "stars": 963,
                 "topics": [
                   "brazil",
                   "datasets",
@@ -372,7 +372,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-12T19:10:34Z",
+                "last_commit": "2026-10-13T17:23:03Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:58:16.411Z",
+    "last_updated": "2026-10-14T05:11:40.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
