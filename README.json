@@ -100,11 +100,11 @@
                 "id": 12080665,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-21T10:36:10Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-20T11:43:55Z",
+                "open_issues": 0,
                 "owner": "openfootball",
                 "repo": "south-america",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:38:09.430Z"
@@ -381,7 +381,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-19T16:23:03Z",
+                "last_commit": "2026-10-20T14:14:02Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T05:07:14.771Z",
+    "last_updated": "2026-10-21T05:08:14.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
