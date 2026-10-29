@@ -251,7 +251,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T16:46:18Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
                 "stars": 16,
@@ -381,7 +381,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-27T15:15:52Z",
+                "last_commit": "2026-10-28T15:52:27Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:01:35.200Z",
+    "last_updated": "2026-10-29T06:13:06.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
@@ -428,7 +428,7 @@
       "open_issues": 2,
       "owner": "juliohm",
       "repo": "awesome-brazil-data",
-      "stars": 209,
+      "stars": 210,
       "topics": [
         "awesome",
         "awesome-list",
