@@ -125,7 +125,7 @@
                 "open_issues": 4,
                 "owner": "paulofreitas",
                 "repo": "geodata-br",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "administrative-divisions",
                   "brasil",
@@ -251,10 +251,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T16:46:18Z",
-                "open_issues": 4,
+                "open_issues": 2,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
-                "stars": 16,
+                "stars": 18,
                 "topics": [
                   "bacen",
                   "banco-central",
@@ -381,7 +381,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-28T15:52:27Z",
+                "last_commit": "2026-10-29T15:58:49Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:13:06.570Z",
+    "last_updated": "2026-10-30T06:12:53.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
