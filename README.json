@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "ipea",
                 "repo": "geobr",
-                "stars": 969,
+                "stars": 970,
                 "topics": [
                   "brazil",
                   "datasets",
@@ -125,7 +125,7 @@
                 "open_issues": 4,
                 "owner": "paulofreitas",
                 "repo": "geodata-br",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "administrative-divisions",
                   "brasil",
@@ -381,7 +381,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-05T17:16:07Z",
+                "last_commit": "2026-11-06T16:40:50Z",
                 "open_issues": 0,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:09:56.405Z",
+    "last_updated": "2026-11-07T06:21:54.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
