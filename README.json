@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "ipea",
                 "repo": "geobr",
-                "stars": 970,
+                "stars": 971,
                 "topics": [
                   "brazil",
                   "datasets",
@@ -55,7 +55,7 @@
                 "open_issues": 22,
                 "owner": "tbrugz",
                 "repo": "geodata-br",
-                "stars": 914,
+                "stars": 916,
                 "topics": [
                   "brasil",
                   "brazil",
@@ -250,8 +250,8 @@
                 "id": 1303423590,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T00:44:40Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-09T21:07:55Z",
+                "open_issues": 3,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
                 "stars": 19,
@@ -381,8 +381,8 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-08T15:53:38Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-09T19:41:07Z",
+                "open_issues": 2,
                 "owner": "stackin-io",
                 "repo": "data-source",
                 "stars": 2,
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:59:54.646Z",
+    "last_updated": "2026-11-10T07:36:50.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
