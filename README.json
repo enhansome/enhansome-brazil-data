@@ -219,27 +219,6 @@
             },
             {
               "node_type": "item",
-              "title": "Infraero",
-              "description": "Dados da Infraero (Python).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Infraero (Brazilian air trafic control department) web data parser.",
-                "homepage": "http://test1.bento.eti.br/infraero/",
-                "id": 582873,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2019-08-12T19:27:24Z",
-                "open_issues": 0,
-                "owner": "ehrhardt",
-                "repo": "Infraero",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:38:09.430Z"
-            },
-            {
-              "node_type": "item",
               "title": "logos-bancos-br",
               "description": "Logos de instituições financeiras do Brasil (JavaScript).",
               "children": [],
@@ -254,7 +233,7 @@
                 "open_issues": 3,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "bacen",
                   "banco-central",
@@ -277,6 +256,27 @@
                   "pix",
                   "svg-logos"
                 ]
+              },
+              "first_seen": "2026-08-28T11:38:09.430Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Infraero",
+              "description": "Dados da Infraero (Python).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Infraero (Brazilian air trafic control department) web data parser.",
+                "homepage": "http://test1.bento.eti.br/infraero/",
+                "id": 582873,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2019-08-12T19:27:24Z",
+                "open_issues": 0,
+                "owner": "ehrhardt",
+                "repo": "Infraero",
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:38:09.430Z"
             },
@@ -381,7 +381,7 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T17:00:43Z",
+                "last_commit": "2026-11-12T17:29:50Z",
                 "open_issues": 2,
                 "owner": "stackin-io",
                 "repo": "data-source",
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:31:25.341Z",
+    "last_updated": "2026-11-13T07:03:07.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
