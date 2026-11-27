@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "ipea",
                 "repo": "geobr",
-                "stars": 974,
+                "stars": 975,
                 "topics": [
                   "brazil",
                   "datasets",
@@ -55,7 +55,7 @@
                 "open_issues": 22,
                 "owner": "tbrugz",
                 "repo": "geodata-br",
-                "stars": 916,
+                "stars": 917,
                 "topics": [
                   "brasil",
                   "brazil",
@@ -233,7 +233,7 @@
                 "open_issues": 7,
                 "owner": "rzmt",
                 "repo": "logos-bancos-br",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "bacen",
                   "banco-central",
@@ -381,8 +381,8 @@
                 "id": 1358379712,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-26T02:24:23Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-27T06:19:50Z",
+                "open_issues": 1,
                 "owner": "stackin-io",
                 "repo": "data-source",
                 "stars": 3,
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:44:17.124Z",
+    "last_updated": "2026-11-27T08:55:17.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Brazilian datasets for anyone interested in studying the country.",
